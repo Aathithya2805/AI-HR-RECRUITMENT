@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+recruitment.db
+hr_chroma_db/
+venv/
+.venv/
+env/
+resumes/*.pdf
+.env
+.vscode/
+.idea/
+.DS_Store
